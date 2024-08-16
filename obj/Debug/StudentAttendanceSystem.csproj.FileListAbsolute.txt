@@ -1,0 +1,14 @@
+D:\programing\StudentAttendanceSystem\bin\Debug\StudentAttendanceSystem.exe.config
+D:\programing\StudentAttendanceSystem\bin\Debug\StudentAttendanceSystem.exe
+D:\programing\StudentAttendanceSystem\bin\Debug\StudentAttendanceSystem.pdb
+D:\programing\StudentAttendanceSystem\obj\Debug\StudentAttendanceSystem.csproj.AssemblyReference.cache
+D:\programing\StudentAttendanceSystem\obj\Debug\StudentAttendanceSystem.Form1.resources
+D:\programing\StudentAttendanceSystem\obj\Debug\StudentAttendanceSystem.Properties.Resources.resources
+D:\programing\StudentAttendanceSystem\obj\Debug\StudentAttendanceSystem.csproj.GenerateResource.cache
+D:\programing\StudentAttendanceSystem\obj\Debug\StudentAttendanceSystem.csproj.CoreCompileInputs.cache
+D:\programing\StudentAttendanceSystem\obj\Debug\StudentAttendanceSystem.exe
+D:\programing\StudentAttendanceSystem\obj\Debug\StudentAttendanceSystem.pdb
+D:\programing\StudentAttendanceSystem\obj\Debug\StudentAttendanceSystem.RegisterForm.resources
+D:\programing\StudentAttendanceSystem\obj\Debug\StudentAttendanceSystem.studentForm.resources
+D:\programing\StudentAttendanceSystem\obj\Debug\StudentAttendanceSystem.LecturerForm.resources
+D:\programing\StudentAttendanceSystem\obj\Debug\StudentAttendanceSystem.ManagementForm.resources
